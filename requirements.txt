@@ -4,3 +4,4 @@ numpy==1.24.3
 matplotlib==3.7.1
 seaborn==0.12.2
 altair==4.2.2
+pip install setuptools
